@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidArshinsky82</string>
+    <string name="button">Ok</string>
+    <string name="text">Hello world!</string>
+    <string-array name="spinner_text">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+</resources>
